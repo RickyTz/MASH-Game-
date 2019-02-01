@@ -35,7 +35,7 @@
           <input name="answer_2[]">
         </div>
         <div class="choice-bucket">
-          <h4 class="highlight">What's your future pet?</h4>
+          <h4 class="highlight">What's your future car?</h4>
           <input name="answer_3[]">
           <input name="answer_3[]">
           <input name="answer_3[]">
