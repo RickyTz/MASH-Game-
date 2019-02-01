@@ -22,24 +22,24 @@
       <div class="bucket">
         <div class="choice-bucket">
           <h4 class="highlight">Where will you live?</h4>
-          <input name="answer_1[]">
-          <input name="answer_1[]">
-          <input name="answer_1[]">
-          <input name="answer_1[]">
+          <input name="answer_1[Texas]">
+          <input name="answer_1[New York]">
+          <input name="answer_1[California]">
+          <input name="answer_1[Florida]">
         </div>
         <div class="choice-bucket">
           <h4 class="highlight">Your future profession?</h4>
-          <input name="answer_2[]">
-          <input name="answer_2[]">
-          <input name="answer_2[]">
-          <input name="answer_2[]">
+          <input name="answer_2[Mechanic]">
+          <input name="answer_2[Offic Job]">
+          <input name="answer_2[Buisness Owner]">
+          <input name="answer_2[Musician]">
         </div>
         <div class="choice-bucket">
           <h4 class="highlight">What's your future car?</h4>
-          <input name="answer_3[]">
-          <input name="answer_3[]">
-          <input name="answer_3[]">
-          <input name="answer_3[]">
+          <input name="answer_3[Nissan GTR]">
+          <input name="answer_3[Toyota Camry]">
+          <input name="answer_3[Honda NSX]">
+          <input name="answer_3[Ferrari F40]">
         </div>
       </div>
       <button type="submit" class="button-submit">Tell my fortune</button>
